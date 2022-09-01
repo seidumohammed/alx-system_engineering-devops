@@ -5,3 +5,4 @@ Create a script that creates a directory named my_first_directory in the /tmp/ d
 9-firstdirdeletion
 10-back
 11-lists
+12-file_type
